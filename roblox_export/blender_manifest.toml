@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "roblox_export"
+version = "0.1.0"
+name = "Roblox Export"
+tagline = "Check meshes and export them to Roblox Studio as FBX"
+maintainer = "anthonigarss-coder"
+type = "add-on"
+
+website = "https://github.com/anthonigarss-coder/rbxexport"
+
+tags = ["Import-Export"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:MIT"]
+
+[permissions]
+files = "Write the FBX files to the folder you choose"
